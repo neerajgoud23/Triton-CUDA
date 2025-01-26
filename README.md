@@ -1,1 +1,3 @@
 # Triton-CUDA
+
+DAY 1 VECTOR ADDICTION 
